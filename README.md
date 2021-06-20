@@ -1,6 +1,6 @@
 # meow_spammer
 
-mewo spammer is a simple python script for spamming
+meow spammer is a simple python script for spamming
 word/line on online chatting websites
 
 ## Run meow_spammer
